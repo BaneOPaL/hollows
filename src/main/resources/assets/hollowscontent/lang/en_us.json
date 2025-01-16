@@ -1,0 +1,34 @@
+{
+  "item.hollowscontent.hollowsteel": "Hollow Steel",
+  "item.hollowscontent.raw_hollowsteel": "Raw Hollow Steel",
+  "item.hollowscontent.coin": "Coin",
+  "item.hollowscontent.living_flesh": "Living Flesh",
+  "item.hollowscontent.tempestite_gem": "Tempestite Gem",
+  "item.hollowscontent.metal_detector": "Metal Detector",
+  "item.hollowscontent.gasoline": "Gasoline",
+
+
+
+  "block.hollowscontent.hollowsteel_stairs": "Hollow Steel Stairs",
+  "block.hollowscontent.hollowsteel_slab": "Hollow Steel Slab",
+  "block.hollowscontent.hollowsteel_button": "Hollow Steel Button",
+  "block.hollowscontent.hollowsteel_pressure_plate": "Hollow Steel Pressure Plate",
+  "block.hollowscontent.hollowsteel_fence": "SHollow Steel Fence",
+  "block.hollowscontent.hollowsteel_fence_gate": "Hollow Steel Fence Gate",
+  "block.hollowscontent.hollowsteel_wall": "Hollow Steel Wall",
+  "block.hollowscontent.hollowsteel_door": "Hollow Steel Door",
+  "block.hollowscontent.hollowsteel_trapdoor": "Hollow Steel Trapdoor",
+
+
+
+
+
+
+
+  "block.hollowscontent.hollowsteel_block": "Hollow Steel Block",
+  "block.hollowscontent.tempestite_ore": "Tempestite Ore",
+  "block.hollowscontent.deepslate_tempestite_ore": "Deepslate Tempestite Ore",
+  "block.hollowscontent.sound_block": "Sound Block",
+
+  "creativetab.hollowscontent": "Hollows Content"
+}
